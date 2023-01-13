@@ -1,0 +1,19 @@
+/* Reset Settings */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    background-color: #fff;
+    color: black;
+}
+
+/* Classes */
+
+.hidden { display: none; }
